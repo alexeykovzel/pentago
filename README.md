@@ -1,5 +1,5 @@
-# Yellow-19
-Yellow-19 is a Java project which provides the server-driven "Pentago" gaming.
+# Pentago
+Pentago is a project which provides the server-driven "Pentago" gaming.
 
 ## Setup
 Building a project requires to run the following:
